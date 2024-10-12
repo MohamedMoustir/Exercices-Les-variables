@@ -48,3 +48,10 @@ let R = 3.14;
 let Somme = (2*R*rayon) 
 console.log(Somme);
 console.log("################################################");
+
+// Exercice 7 : Conversion de température
+
+let C = 8;
+let F= (C*9/5+32) 
+console.log(F);
+console.log("################################################");

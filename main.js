@@ -55,3 +55,9 @@ let C = 8;
 let F= (C*9/5+32) 
 console.log(F);
 console.log("################################################");
+
+// Exercice 8 : Calcul de l'âge
+let anneeNaissance = 2003;
+let anneeActuelle = 2024;
+let Yage = anneeActuelle -anneeNaissance;
+console.log(Yage);

@@ -31,3 +31,13 @@ if(age >= 18){
 }
 console.log(majeur);
 console.log("################################################");
+
+// Exercice 5 : Échange de valeurs entre deux variables
+let x = 5;
+let y = 6;
+x = x+y
+y = x-y
+x = x-y
+console.log(x);
+console.log(y);
+

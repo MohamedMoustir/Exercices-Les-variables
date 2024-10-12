@@ -61,3 +61,12 @@ let anneeNaissance = 2003;
 let anneeActuelle = 2024;
 let Yage = anneeActuelle -anneeNaissance;
 console.log(Yage);
+console.log("################################################");
+
+//Exercice 9 : Calcul du périmètre d'un rectangle
+
+let longueur = 10;
+let largeur = 2;
+let P = (2*longueur+largeur) 
+console.log(P);
+console.log("################################################");

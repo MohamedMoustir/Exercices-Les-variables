@@ -40,4 +40,11 @@ y = x-y
 x = x-y
 console.log(x);
 console.log(y);
+console.log("################################################");
 
+// Exercice 6 : Calcul de la circonférence d'un cercle
+let rayon = 8;
+let R = 3.14;
+let Somme = (2*R*rayon) 
+console.log(Somme);
+console.log("################################################");
